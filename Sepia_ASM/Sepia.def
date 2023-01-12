@@ -1,0 +1,12 @@
+; Temat projektu: Filtr Sepia
+; Algorytm sumuje wartoœci RGB kolejnych pikseli przemno¿one przez odpowiedni wspó³czynnik.
+; Nastêpnie oblicza nowe wartoœci RGB na podstawie powy¿szej sumy i wspó³czynnika si³y filtru.
+; Tabela zapisanych, uzyskanych w ten sposób wartoœci stanowi podstawê do wygenerowania grafiki
+; z na³o¿onym filtrem.
+; Data wykonania projektu: semestr V/rok akademicki 2022/2023, Kamil Musia³owski, Informatyka Katowice AEiI
+; Wersja: 1.0
+
+;------------------------------------------------------------------------- 
+LIBRARY Sepia_ASM
+EXPORTS sepia
+;-------------------------------------------------------------------------

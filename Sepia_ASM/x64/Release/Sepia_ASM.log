@@ -1,0 +1,3 @@
+﻿  Assembling Sepia.asm...
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  Sepia_ASM.vcxproj -> C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\x64\Release\Sepia_ASM.dll

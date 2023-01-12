@@ -1,0 +1,11 @@
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\bin\x64\Debug\sepia-assembler-JA.exe.config
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\bin\x64\Debug\sepia-assembler-JA.exe
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\bin\x64\Debug\sepia-assembler-JA.pdb
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia-assembler-JA.csproj.AssemblyReference.cache
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia-assembler-JA.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia_assembler_JA.Properties.Resources.resources
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia-assembler-JA.csproj.GenerateResource.cache
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia-assembler-JA.csproj.CoreCompileInputs.cache
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia-assembler-JA.exe
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia-assembler-JA.pdb
+C:\Users\kmusi\OneDrive\Desktop\JA_projekt\sepia-assembler-JA\obj\x64\Debug\sepia_assembler_JA.SepiaForm.resources
