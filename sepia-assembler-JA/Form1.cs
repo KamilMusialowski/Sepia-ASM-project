@@ -117,38 +117,12 @@ namespace sepia_assembler_JA
             if ((ASM.Checked || CS.Checked) && !pictureBefore.Image.Equals(null))
             {
                 String sepiaMechanism = groupBox1.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked).Name;
-                //double res;
                 BitmapSource bs = Bmp.BitmapToBitmapSource(pictureOriginal);
                 pixels = Bmp.ToBmpBGRArray(bs);
                 double[] wyniki = new double[320];
-                //int pointer = 0;
                 SepiaManager manager = null;
                 if (ASM.Checked)
                 {
-                    /*for (int i = 1; i < 65; i++) {
-                        for (int j = 0; j < 5; j++)
-                        {
-                            manager = new SepiaManager(bs, SepiaMechanismType.Cpp, 20, i);
-                            TimeSpan t;
-                            BitmapSource bsa = manager.ExecuteEffect(out t);
-                        }
-                        for(int j=1; j<6; j++)
-                        {
-                            manager = new SepiaManager(bs, SepiaMechanismType.Cpp, 20, i);
-                            TimeSpan f;
-                            BitmapSource b = manager.ExecuteEffect(out f);
-                            double res = f.TotalMilliseconds;
-                            wyniki[pointer] = res;
-                            pointer++;
-                        }
-                    }
-                    using (StreamWriter writer = new StreamWriter("C:\\Users\\kmusi\\OneDrive\\Desktop\\JA_projekt\\wyniki_duzy.txt"))
-                    {
-                        for (int i = 0; i < 320; i++)
-                        {
-                            writer.WriteLine(wyniki[i]);
-                        }
-                    }*/
                     manager = new SepiaManager(bs, SepiaMechanismType.Assembly, 20, threadsNumber.Value);
                 }
                 if (CS.Checked)
